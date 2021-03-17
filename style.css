@@ -241,6 +241,10 @@ ul {
 }
 
 @media (max-width: 500px) {
+    .home-main .main-text {
+    margin: 70px 0 30px;
+}
+    
     .home-services {
         grid-template-columns: repeat(2, 1fr);
     }
